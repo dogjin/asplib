@@ -46,6 +46,9 @@ typedef enum
   // FFT remapper options
   ASPLIB_EXTENDED_STRUCT_TGammaCorrectorOptions,
 
+  // Dynamics options
+  ASPLIB_EXTENDED_STRUCT_CompressorOptions,
+
   ASPLIB_EXTENDED_STRUC_MAX_ID = -1
 }asplibExtendedStructIDs_t;
 }
